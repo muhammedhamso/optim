@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/modbustcpClient_test.cpp.o CMakeFiles/tests.dir/home/hamso/Documents/seedProc/third_party/catch_amalgamated.cpp.o -o tests  ../communication/libcommunication.a 

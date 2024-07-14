@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/hamso/Documents/seedProc/src",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}

@@ -1,0 +1,9 @@
+/home/hamso/Documents/seedProc/build/CMakeFiles/YourProjectName.dir
+/home/hamso/Documents/seedProc/build/CMakeFiles/edit_cache.dir
+/home/hamso/Documents/seedProc/build/CMakeFiles/rebuild_cache.dir
+/home/hamso/Documents/seedProc/build/communication/CMakeFiles/communication.dir
+/home/hamso/Documents/seedProc/build/communication/CMakeFiles/edit_cache.dir
+/home/hamso/Documents/seedProc/build/communication/CMakeFiles/rebuild_cache.dir
+/home/hamso/Documents/seedProc/build/test/CMakeFiles/tests.dir
+/home/hamso/Documents/seedProc/build/test/CMakeFiles/edit_cache.dir
+/home/hamso/Documents/seedProc/build/test/CMakeFiles/rebuild_cache.dir

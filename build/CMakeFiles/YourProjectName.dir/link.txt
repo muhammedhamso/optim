@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/YourProjectName.dir/main.cpp.o -o YourProjectName  communication/libcommunication.a 
